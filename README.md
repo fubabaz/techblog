@@ -2,6 +2,6 @@
 https://fubabaz.tistory.com/
 
 
-| TITLE | CATEGORY | URL |
+| CATEGORY | TITLE | URL |
 |:--------|:--------|:--------|
-| Hi Fuababz |카테고리 없음| https://fubabaz.tistory.com/1 |
+| 카테고리 없음 | Hi Fuababz | https://fubabaz.tistory.com/1 |
