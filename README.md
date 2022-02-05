@@ -4,4 +4,4 @@ https://fubabaz.tistory.com/
 
 | TITLE | CATEGORY | URL |
 |:--------|:--------|:--------|
-| Hi Fuababz || https://fubabaz.tistory.com/1 |
+| Hi Fuababz |카테고리 없음| https://fubabaz.tistory.com/1 |
