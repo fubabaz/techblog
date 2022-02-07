@@ -1,6 +1,7 @@
 ## Tech Blog
 https://fubabaz.tistory.com/
 
-| TITLE | URL |
-|:--------|:--------|
-| Hi Fuababz | https://fubabaz.tistory.com/1 |
+
+| CATEGORY | TITLE | URL |
+|:--------|:--------|:--------|
+| 카테고리 없음 | Hi Fuababz | https://fubabaz.tistory.com/1 |
