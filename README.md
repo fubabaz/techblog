@@ -8,4 +8,5 @@ https://fubabaz.tistory.com/
 | <sub>Spring Boot | <sub>[[Spring boot] (2) Spring boot를 활용한 To do Application](https://fubabaz.tistory.com/17)|<sub>![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/36403696?v=4&h=20&w=20&fit=cover&mask=circle&maxage=7d)|<sub>2022-02-08
 | <sub>Spark| <sub>[[Spark] Spark 개요, Spark란 무엇이고 어떤 역할을 하는가? Spark Core, Pandas와 비교](https://fubabaz.tistory.com/18)|<sub>![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53298013?v=4&h=20&w=20&fit=cover&mask=circle&maxage=7d)|<sub>2022-02-09
 | <sub>Spark| <sub>[[Spark] Install PySpark with PiP & 파일 읽고, 쓰기 실습](https://fubabaz.tistory.com/22)|<sub>![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53298013?v=4&h=20&w=20&fit=cover&mask=circle&maxage=7d)|<sub>2022-03-09
-   
+| <sub>Spark| <sub>[[Spark] 스파크의 문법적 자유도, 스키마 조작, dummy 생성](https://fubabaz.tistory.com/23)|<sub>![avatar](https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53298013?v=4&h=20&w=20&fit=cover&mask=circle&maxage=7d)|<sub>2022-04-15
+ 
