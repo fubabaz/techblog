@@ -1,6 +1,6 @@
 ## Tech Blog Ground Rules
-<li><sub> :heavy_check_mark: 매달 일주일이 완전히 존재하는 마지막주 금요일까지 개인 블로그에 포스팅을 진행하고 PR을 올립니다.</sub>
-<li><sub> :exclamation: 팀원들의 리뷰는 다음달이 시작되기 전까지 진행합니다.</sub>
+<li><sub> :heavy_check_mark: 매달 일주일이 완전히 존재하는 마지막 주의 전 주 금요일까지 PR을 실행합니다.</sub>
+<li><sub> :exclamation: 팀원들은 마지막주 금요일까지 팀블로그에 팀원들의 Posting이 가능하도록 되도록 빨리 리뷰를 진행 합니다.</sub>
 <li><sub> :exclamation: 모두가 Approve하면 가능한 빨리(ASAP) 팀블로그에 Posting합니다.</sub>
  
  
